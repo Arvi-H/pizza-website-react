@@ -3,7 +3,6 @@ import React from "react";
 const Order = () => {
 return (
     <div>
-        <h2>Come to Our Locations!</h2>
         <img src="images/pizzaOrder.jpg" class="img-fluid" />
          <div class="container">
         <br />
@@ -12,6 +11,7 @@ return (
         </button>
         <br />
         <h2>Come to Our Locations!</h2>
+        <br/>
         <div class="container">
             <img src="images/map.png" class="img-fluid" />
         </div>
